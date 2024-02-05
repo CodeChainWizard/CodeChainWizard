@@ -2,7 +2,7 @@
 <h3 align="center">Empowering Users and Transforming Industries: Innovating at the Intersection of App Development and Blockchain Technology</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeChianWizard&label=Profile%20views&color=0e75b6&style=flat" alt="CodeChianWizard" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeChianWizard&theme=matrix" alt="CodeChianWizard" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeChainWizard&theme=matrix" alt="CodeChianWizard" /></a> </p>
 
 - 🌱 I’m currently **working on Flutter and Solidity**
 - 💬 Ask me about **Flutter, Java, RestAPI**
@@ -46,8 +46,8 @@
 <p><a href="https://www.buymeacoffee.com/CodeChainWizard"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeChainWizard" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeChianWizard&layout=compact&theme=nightowl" alt=CodeChianWizard />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeChainWizard&layout=compact&theme=nightowl" alt=CodeChainWizard />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeChianWizard&show_icons=true&locale=en&theme=nightowl" alt="CodeChianWizard" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeChainWizard&show_icons=true&locale=en&theme=nightowl" alt="CodeChainWizard" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeChianWizard&theme=nightowl" alt="CodeChianWizard" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeChainWizard&theme=nightowl" alt="CodeChainWizard" /></p>
